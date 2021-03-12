@@ -4,16 +4,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Tailwindcss
 
+Guide:
 <https://jacobneterer.medium.com/angular-and-tailwindcss-2388fb6e0bab>
 
-```shell
-npm install tailwindcss -D
-npm install @angular-builders/custom-webpack postcss -D
-```
+## Materialize
 
-
-ng config projects.brujula.architect.build.builder @angular-builders/custom-webpack:browser
-ng config projects.brujula.architect.build.options.customWebpackConfig.path webpack.config.js
-ng config projects.brujula.architect.serve.builder @angular-builders/custom-webpack:dev-server
-ng config projects.brujula.architect.test.builder @angular-builders/custom-webpack:browser
-ng config projects.brujula.architect.test.options.customWebpackConfig.path webpack.config.js
+Guide:
+<https://materializecss.com/getting-started.html>
