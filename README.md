@@ -10,4 +10,4 @@ Guide:
 ## Materialize
 
 Guide:
-<https://materializecss.com/getting-started.html>
+<https://medium.com/@jcjiron4/cuando-configur%C3%A9-angular-y-materializecss-1b0e941f749c>
